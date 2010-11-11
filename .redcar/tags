@@ -1,0 +1,8 @@
+1289441214
+Application	/Users/robertohenriquesouzamarchiori/code/first_app/config/application.rb	  class Application 
+ApplicationController	/Users/robertohenriquesouzamarchiori/code/first_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/Users/robertohenriquesouzamarchiori/code/first_app/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/Users/robertohenriquesouzamarchiori/code/first_app/test/performance/browsing_test.rb	class BrowsingTest 
+FirstApp	/Users/robertohenriquesouzamarchiori/code/first_app/config/application.rb	module FirstApp
+TestCase	/Users/robertohenriquesouzamarchiori/code/first_app/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	/Users/robertohenriquesouzamarchiori/code/first_app/test/performance/browsing_test.rb	  def test_homepage
